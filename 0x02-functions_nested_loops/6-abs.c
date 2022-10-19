@@ -3,7 +3,7 @@
 /**
  * _abs - Code entry point.
  *
- * @num is a positive or negative integer
+ * @num: is a positive or negative integer
  *
  * This fuction that computes the absolute value of an integer.
  *
