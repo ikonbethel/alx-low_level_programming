@@ -3,9 +3,9 @@
 /**
  * _islower - Code entry point
  *
- * Description - This program checks for lowercase character.
+ * Description: This program checks for lowercase character.
  *
- * @c - it recieves c as input
+ * @c: it recieves  int c as input
  *
  * Return: 0
  */
