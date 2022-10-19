@@ -3,7 +3,7 @@
 /**
  * _islower - Code entry point
  *
- * This program checks for lowercase character.
+ * Description - This program checks for lowercase character.
  *
  * @c - it recieves c as input
  *
