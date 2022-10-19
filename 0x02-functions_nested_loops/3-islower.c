@@ -5,7 +5,7 @@
  *
  * This program checks for lowercase character.
  *
- * it recieves c as input
+ * @c - it recieves c as input
  *
  * Return: 0
  */
