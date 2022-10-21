@@ -5,8 +5,8 @@
  * main - FizzBuzz
  *
  * Description: prints the numbers 1 - 100 
- * it prints Fizz for multiples of 3, Buzz for multiples of 5,
- * and FizzBuzz for multiples of both
+ * Fizz for multiples of 3, Buzz for multiples of 5,
+ * FizzBuzz for multiples of both
  *
  * Return: always 0
  */
