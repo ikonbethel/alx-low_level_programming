@@ -24,7 +24,7 @@ int main(void)
 			printf("Buzz");
 		else
 			printf("%i", x);
-		if (x < 100)
+		if (x <= 100)
 			printf(" ");
 	}
 	printf("\n");
