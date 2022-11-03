@@ -2,8 +2,8 @@
 
 /**
 * prime_check -Entry point- Checks if number is prime
-* @f: input factor
-* @p: Possible prime number
+* @x: input factor
+* @y: Possible prime number
 * Return: returns 1 if prime, else returns 0
 */
 
