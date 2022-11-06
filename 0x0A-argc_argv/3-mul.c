@@ -20,10 +20,16 @@ int main(int argc, char *argv[])
 	}
 	else
 	{
-		_putchar('Error');
+		_putchar('E');
+		_putchar('r');
+		_putchar('r');
+		_putchar('o');
+		_putchar('r');
+		_putchar('\n');
 		return (0);
 	}
 }
+
 
 /**
 * _atoi - Convert a number in a string to an integer
