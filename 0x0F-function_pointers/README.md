@@ -1,5 +1,5 @@
 # ABOUT
-This directory contains answer on 0x0F - function pointers tasks
+This directory contains answers on 0x0F - function pointers tasks
 
 ## CONTENT
 
