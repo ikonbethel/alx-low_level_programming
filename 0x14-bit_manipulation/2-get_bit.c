@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* get_bit - return one bit
+* get_bit - return one bit.
 * @n: the number
 * @index: the position to read the bit
 * Description: return 1 bit
