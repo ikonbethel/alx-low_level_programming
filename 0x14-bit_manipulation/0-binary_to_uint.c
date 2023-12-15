@@ -14,10 +14,8 @@ int _strlen(const char *s)
 int i = 0;
 while (s[i])
 	i++;
-
 return (i);
 }
-
 
 /**
 * binary_to_uint - converts a binary number to an unsigned int
