@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* flip_bits - count the bit to change to another value
+* flip_bits - count the bit to change to another value.
 * @n: the number
 * @m: the number to compare
 * Description: compare to ints a count the diferences in bits
