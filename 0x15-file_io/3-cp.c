@@ -43,5 +43,5 @@ int main(int ac, char **av)
 	if (close_file == -1)
 	{ dprintf(STDERR_FILENO, "Error: Can't close fd  %d\n", file_to);
 		exit(100); }
-return (0);
+	return (0);
 }
