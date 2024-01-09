@@ -1,6 +1,5 @@
 #ifndef FILE_MAIN
 #define FILE_MAIN
-
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <elf.h>
