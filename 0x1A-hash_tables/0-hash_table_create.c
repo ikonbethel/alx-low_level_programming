@@ -4,10 +4,6 @@
 /**
  *hash_table_create - function that creates a hash table.
  *@size: size of array.
- *
- *
- *
- *
  *Return: NULL if something went wrong, or new table if all goes well.
  */
 hash_table_t *hash_table_create(unsigned long int size)
